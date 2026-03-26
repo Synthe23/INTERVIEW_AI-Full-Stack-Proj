@@ -1,1 +1,7 @@
+STEP - 1 - FORK the repo using the URL of the project repo
 
+STEP - 2 - cd Backend
+
+STEP - 3 - npm i -> to download the node modules
+
+STEP - 4 - npm run dev -> to run the backend
